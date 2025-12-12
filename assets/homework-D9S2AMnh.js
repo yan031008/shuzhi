@@ -1,0 +1,2 @@
+const e=[{url:"/api/unfinishedHomework",method:"get",response:()=>({data:[{homework:"课时训练3~5页",time:"2020-12-3"},{homework:"物理大本后三题",time:"2023-12-4"},{homework:"化学小本熟读",time:"2025-12-3"}]})},{url:"/api/finishedHomework",method:"get",response:()=>({data:[{homework:"数学卷子两张",time:"2025-12-12"},{homework:"语文卷子作文一篇",time:"2024-09-09"}]})},{url:"/api/expireHomework",method:"get",response:()=>({data:[]})}];export{e as default};
+//# sourceMappingURL=homework-D9S2AMnh.js.map

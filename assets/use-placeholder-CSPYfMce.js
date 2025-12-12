@@ -1,0 +1,2 @@
+import{a as r,b as h,d as n}from"./index-DJqRQlqb.js";import{o as u}from"./on-popup-reopen-CzQaAN2m.js";import{r as c,i as d,m as i,p as l,a as p}from"./index-CaEfGZCH.js";const m=(o,s)=>{const t=c(),e=()=>{t.value=r(o).height};return d(()=>{i(e);for(let a=1;a<=3;a++)setTimeout(e,100*a)}),u(()=>i(e)),l([h,n],e),t};function v(o,s){const t=m(o);return e=>p("div",{class:s("placeholder"),style:{height:t.value?`${t.value}px`:void 0}},[e()])}export{v as u};
+//# sourceMappingURL=use-placeholder-CSPYfMce.js.map

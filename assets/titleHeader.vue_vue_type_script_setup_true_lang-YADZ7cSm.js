@@ -1,0 +1,2 @@
+import{I as s}from"./index-DT_EPXAU.js";import{d as n,c as a,a as c,b as r,t as l,o as i}from"./index-DaBUA-4g.js";const p={class:"flex justify-center items-center relative"},d=n({__name:"titleHeader",props:["title","goRoute"],setup(t){const e=t;return(m,_)=>{const o=s;return i(),a("div",p,[c(o,{name:"arrow-left",size:"0.5rem",onClick:e.goRoute,class:"absolute! top-0 left-0"},null,8,["onClick"]),r("span",null,l(e.title),1)])}}});export{d as _};
+//# sourceMappingURL=titleHeader.vue_vue_type_script_setup_true_lang-YADZ7cSm.js.map
