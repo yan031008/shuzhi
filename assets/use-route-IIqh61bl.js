@@ -1,0 +1,2 @@
+import{g as e}from"./index-B3SPDOIp.js";const o="van-hairline",O=`${o}--top`,R=`${o}--left`,T=`${o}--surround`,E=`${o}--top-bottom`,_=`${o}-unset--top-bottom`,i="van-haptics-feedback",u=Symbol("van-form"),p=500,B=5,f={to:[String,Object],url:String,replace:Boolean};function c({to:t,url:s,replace:n,$router:a}){t&&a?a[n?"replace":"push"](t):s&&(n?location.replace(s):location.href=s)}function S(){const t=e().proxy;return()=>c(t)}export{E as B,u as F,i as H,p as L,B as T,T as a,O as b,o as c,R as d,c as e,_ as f,f as r,S as u};
+//# sourceMappingURL=use-route-IIqh61bl.js.map
